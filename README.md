@@ -9,10 +9,12 @@ except modifying followings:
 Any modification will be welcomed except the design of state and obsrevation function only if the modifation is well reasoned and documented.
 
 ## Grading Policy
-We will grade the project outcomes __only based on__ the average winning rate. The average winning rate will be computed through another testing code. Therefore, every trained model should work proprely with out any modification of the [test code](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py) except `load_model` and `test_model`.
+We will grade the project outcomes __only based on__ the average winning rate. The average winning rate will be computed through another testing code. Therefore, every trained model should work proprely without any modification of the [test code](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py) except `load_model` and `test_model`.
+
+## Project deliverable
+We expected to get `a short report` (<= 3pages) that is about (1) the main algorithm that you used, (2) details of tweaks that you used for improving or stabilizing the algorithm, and (3) Test performance in the [test suite] (https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py) Also, you need to submit a `saved version` of your model and corresponding code snippet to validate the outcome. You can find the detail from [here](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py).
 
 ## Installation guide
-
 
 ### Install Starcraft2   
 SMAC is based on the full game of StarCraft II (versions >= 3.16.1). To install the game, follow the commands bellow.  

@@ -30,4 +30,8 @@ $ git clone https://github.com/oxwhirl/smac.git
 $ pip install smac/
 ```
 
+### Install SMAC Maps
+
+Download the [SMAC Maps](https://github.com/oxwhirl/smac/releases/download/v0.1-beta1/SMAC_Maps.zip) and extract them to your `$SC2PATH/Maps` (in Windows, `C:/Program Files (x86)/StarCraft II/Maps` by default.) directory. If you installed SMAC via git, simply copy the SMAC_Maps directory from smac/env/starcraft2/maps/ into $SC2PATH/Maps directory. Make sure to have following directory structure `$SC2PATH/Maps/SMAC_Maps`
+
 

@@ -1,4 +1,4 @@
-# GTMARL-SC2EV
+# GTMARL-SC2ENV
 2019 Fall - Game theory and Multi-agent RL Termproject
 
 __Objective__: Acheving agent(s) that plays StarCraft2 microcontrol environment __well__ as much as possible with any possible manners.

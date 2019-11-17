@@ -5,7 +5,11 @@ __Objective__: Acheving agent(s) that plays StarCraft2 microcontrol environment 
 except modifying followings:
 * The design of state, observation function: The state and observation function will be determined by the `SMAC StarCraft2Env`. We will use the default state, observation function when we test the project outcomes.
 
-* 
+## Note on modifications
+Any modification will be welcomed if the modifation is well reasoned and documnented. 
+
+## Grading Policy
+We will grade the project outcomes __only based on__ the average winning rate. Therefore, every trained model should work proprely with out any modification of the [test code]().
 
 ## Installation guide
 

@@ -9,7 +9,7 @@ except modifying followings:
 Any modification will be welcomed if the modifation is well reasoned and documnented. 
 
 ## Grading Policy
-We will grade the project outcomes __only based on__ the average winning rate. Therefore, every trained model should work proprely with out any modification of the [test code]().
+We will grade the project outcomes __only based on__ the average winning rate. Therefore, every trained model should work proprely with out any modification of the [test code]() except loading the models from the disk.
 
 ## Installation guide
 

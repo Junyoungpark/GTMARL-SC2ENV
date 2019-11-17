@@ -1,0 +1,5 @@
+# pycharm related
+.idea/
+
+# jupyter related
+.ipynb_checkpoints/

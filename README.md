@@ -2,8 +2,10 @@
 2019 Fall - Game theory and Multi-agent RL Termproject
 
 __Objective__: Acheving agent(s) that plays StarCraft2 microcontrol environment __well__ as much as possible with any possible manners.
+except modifying followings:
+* state, observation function: The state and observation function will be determined by the `SMAC StarCraft2Env`. We will use the default state, observation function when we test the project outcomes.
 
-Requirements:
+* 
 
 ## Installation guide
 

@@ -9,7 +9,7 @@ except modifying followings:
 Any modification will be welcomed except the design of state and obsrevation function only if the modifation is well reasoned and documented.
 
 ## Grading Policy
-We will grade the project outcomes __only based on__ the average winning rate. The average winning rate will be computed through another testing code. Therefore, every trained model should work proprely with out any modification of the [test code]() except `load_model` and `test_model`.
+We will grade the project outcomes __only based on__ the average winning rate. The average winning rate will be computed through another testing code. Therefore, every trained model should work proprely with out any modification of the [test code](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py) except `load_model` and `test_model`.
 
 ## Installation guide
 

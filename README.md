@@ -6,10 +6,10 @@ except modifying followings:
 * The design of state, observation function: The state and observation function will be determined by the `SMAC StarCraft2Env`. We will use the default state, observation function when we test the project outcomes.
 
 ## Note on modifications
-Any modification will be welcomed if the modifation is well reasoned and documnented. 
+Any modification will be welcomed except the design of state and obsrevation function only if the modifation is well reasoned and documented.
 
 ## Grading Policy
-We will grade the project outcomes __only based on__ the average winning rate. Therefore, every trained model should work proprely with out any modification of the [test code]() except loading the models from the disk.
+We will grade the project outcomes __only based on__ the average winning rate. The average winning rate will be computed through another testing code. Therefore, every trained model should work proprely with out any modification of the [test code]() except `load_model` and `test_model`.
 
 ## Installation guide
 

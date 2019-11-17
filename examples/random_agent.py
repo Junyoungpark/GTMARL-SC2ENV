@@ -35,7 +35,10 @@ def main():
                 action = np.random.choice(avail_actions_ind)
                 actions.append(action)
 
-            reward, terminated, _ = env.step(actions)
+            reward, terminated, info = env.step(actions)
+            if terminated:
+                won = True if info['battle_won'] else False
+                print("Battle result : {}".format(won))
             episode_reward += reward
 
         print("Total reward in episode {} = {}".format(e, episode_reward))

@@ -14,8 +14,8 @@ We will grade the project outcomes __only based on__ the average winning rate. T
 ## Project deliverable
 We expected to get `a short report` (<= 3pages) that is about 
 1. the main algorithm that you used, 
-2 details of tweaks that you used for improving or stabilizing the algorithm, and 
-3 Test performance in the [test suite](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py) 
+2. details of tweaks that you used for improving or stabilizing the algorithm, and 
+3. Test performance in the [test suite](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py) 
 
 Also, you need to submit a `saved version` of your model and corresponding code snippet to validate the outcome. You can find the detail from [here](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py).
 

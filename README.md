@@ -1,21 +1,24 @@
 # GTMARL-SC2EV
-2019 Fall - Game theory and Multi-agent RL Termproject
+2019 Fall - Game theory and Multi-agent RL Term project
 
-__Objective__: Acheving agent(s) that plays StarCraft2 microcontrol environment __well__ as much as possible with any possible manners.
+__Objective__: Achieving agent(s) that plays StarCraft2 microcontrol environment __well__ as much as possible with any possible manners.
 except modifying followings:
 * The design of state, observation function: The state and observation function will be determined by the `SMAC StarCraft2Env`. We will use the default state, observation function when we validate the project outcomes.
 
+## Important dates
+November 20, 2019: Team building: 
+
 ## Note on modifications
-Any modification will be welcomed except the design of state and obsrevation function only if the modifation is well reasoned and documented on your report
+Any modification will be welcomed except the design of state and observation function only if the modification is well reasoned and documented on your report
 
 ## Grading Policy
-We will grade the project outcomes __only based on__ the average winning rate. The average winning rate will be computed through another testing code. Therefore, every trained model should work proprely without any modification of the [test code](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py) except `load_model` and `test_model`.
+We will grade the project outcomes __only based on__ the average winning rate. The average winning rate will be computed through another testing code. Therefore, every trained model should work properly without any modification of the [test code](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py) except `load_model` and `test_model`.
 
 ## Project deliverable
 We expected to get `a short report` (<= 3pages) that is about 
 1. the main algorithm that you used, 
-2. details of tweaks that you used for improving or stabilizing the algorithm, and 
-3. Test performance in the [test suite](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py) 
+2. details of tweaks that you used for improving or stabilizing the algorithm, 
+3. test performance from the [test suite](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py)
 
 Also, you need to submit a `saved version` of your model and corresponding code snippet to validate the outcome. You can find the detail from [here](https://github.com/Junyoungpark/GTMARL-SC2EV/blob/master/test/run_model.py).
 

@@ -9,6 +9,8 @@ except modifying followings:
 ## Important dates
 __Team building__ (November 20, 2019) - Mail to T.A. (Junyoungpark@kaist.ac.kr). Anyone __cannot__ match the team also mail to T.A. We will match the team for you :grinning:
 
+__Due of the project__ (December 28, 2019)
+
 ## Note on modifications
 Any modification will be welcomed except the design of state and observation function only if the modification is well reasoned and documented on your report
 

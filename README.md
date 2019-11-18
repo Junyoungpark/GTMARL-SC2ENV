@@ -7,7 +7,10 @@ except modifying followings:
 * The design of state, observation function: The state and observation function will be determined by the `SMAC StarCraft2Env`. We will use the default state, observation function when we validate the project outcomes.
 
 ## Important dates
-November 20, 2019: Team building: 
+__Team building__ (November 20, 2019) - Mail to T.A. (Junyoungpark@kaist.ac.kr). Anyone __cannot__ match the team also mail to T.A. We will match the team for you :grinning:
+
+## Questions :question:
+Please raise an inssue on this repository if you encounter any problem.
 
 ## Note on modifications
 Any modification will be welcomed except the design of state and observation function only if the modification is well reasoned and documented on your report

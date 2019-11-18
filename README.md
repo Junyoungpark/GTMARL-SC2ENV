@@ -6,8 +6,9 @@ except modifying followings:
 * The design of state, observation function: The state and observation function will be determined by the `SMAC StarCraft2Env`. We will use the default state, observation function when we validate the project outcomes.
 
 ## Announcement
-1. We highly recommend you to explore `StarCraft2Env` prior to the paper presentation. While you preparing the presentations (or listening others' presentation), you can get some ideas about how to implmentat the idea for the `StarCraft2Env`
-2. Updates on term project due. The due of the proejct is December 28, 2019
+1. We __highly recommend__  that you explore `StarCraft2Env` prior to the paper presentation. While you preparing the presentations (or listening others' presentation), you can get some ideas about how to implmentat the idea for the `StarCraft2Env`
+2. About team buildings: You can build a solo team! Again, the number of teammate can be __up to__ 3 ppl. 
+3. Updates on term project due. The due of the proejct is December 28, 2019
 
 ## Important dates
 __Team building__ (November 20, 2019) - Mail to T.A. (Junyoungpark@kaist.ac.kr). Anyone __cannot__ match the team also mail to T.A. We will match the team for you :grinning:

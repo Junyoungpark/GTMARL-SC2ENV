@@ -7,7 +7,7 @@ except modifying followings:
 
 ## Announcement
 1. We __highly recommend__  that you explore `StarCraft2Env` prior to the paper presentation. While you preparing the presentations (or listening others' presentation), you can get some ideas about how to implmentat the idea for the `StarCraft2Env`
-2. About team buildings: You can build a solo team! Again, the number of teammate can be __up to__ 3 ppl. 
+2. About team buildings: You can build a one-person team even! Again, the number of teammate can be __up to__ 3 ppl. 
 3. Updates on term project due. The due of the proejct is December 28, 2019
 
 ## Important dates

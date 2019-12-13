@@ -50,7 +50,7 @@ def main(model_path):
                         window_size_y=1080 / 3)
 
     loaded_model = load_model(model_path)
-    mean_wr = test_model(load_model, env, num_runs=50)
+    mean_wr = test_model(loaded_model, env, num_runs=50)
     return mean_wr
 
 
